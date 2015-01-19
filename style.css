@@ -1,1 +1,26 @@
-assignment 2
+
+	<style type = "text/css">
+    table, td, th {
+      border: 1px solid black;
+    } 
+	.outer-content {
+	border:20px solid pink;
+	background: 20px solid pink;
+	margin: 20px;
+	width: 75%;
+	align: left;
+	}	
+	.inner-content {border:10px solid #A9D0F5;
+	align: left;
+	}
+	}
+
+	<STYLE>
+	dt:hover {background:purple}
+	.dt1:hover ~ .dd1 {background:purple}
+	.dt2:hover ~ .dd2 {background:purple}
+	.dt3:hover ~ .dd3 {background:purple}
+
+</STYLE>
+	
+    </style>
